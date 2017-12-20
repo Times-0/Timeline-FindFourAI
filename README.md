@@ -1,6 +1,11 @@
 # Timeline-FindFourAI
 An intelligent, human like AI will be present in the Four lounge, with whom you can play matches.
 
+# Usage
+Go to the Four Lounge, type in the chat `!Find4 [Difficulty Level]`. The bot will make you both join a available four board, and start the game!
+
+Eg: `!Find4`, `!Find4 2`, `!Find4 3`
+
 # Setup
 To use this bot you are required to place the file `dassets.swf` in your `client` folder in your media server. ie,
 
