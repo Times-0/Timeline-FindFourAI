@@ -1,7 +1,6 @@
 # Timeline-FindFourAI
 An intelligent, human like AI will be present in the Four lounge, with whom you can play matches.
 
-**Anyone except _Zaseth_ can use this**
 
 # Usage
 Go to the Four Lounge, type in the chat `!Find4 [Difficulty Level]`. The bot will make you both join an available four board, and start the game!
