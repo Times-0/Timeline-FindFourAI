@@ -189,8 +189,7 @@ class FindFourAI(IPlugin):
 
     @inlineCallbacks
     def createAI(self):
-        self.AI = Penguin(username = self.AI_username, nickname = "FindFour AI", password = '', email = 'me@me.me', coins = 1000, igloos = '',
-            furnitures = '', floors = '', locations = '', care = '', stamps = '', cover = '')
+        self.AI = Penguin(username = self.AI_username, nickname = "FindFour AI", password = '', email = 'me@me.me')
         yield self.AI.save()
         yield self.AI.refresh() # update values from DB
 
